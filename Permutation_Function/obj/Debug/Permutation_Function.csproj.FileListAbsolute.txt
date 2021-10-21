@@ -1,0 +1,7 @@
+C:\Users\RoysBABA\source\repos\Permutation_Function\Permutation_Function\bin\Debug\Permutation_Function.exe.config
+C:\Users\RoysBABA\source\repos\Permutation_Function\Permutation_Function\bin\Debug\Permutation_Function.exe
+C:\Users\RoysBABA\source\repos\Permutation_Function\Permutation_Function\bin\Debug\Permutation_Function.pdb
+C:\Users\RoysBABA\source\repos\Permutation_Function\Permutation_Function\obj\Debug\Permutation_Function.csproj.AssemblyReference.cache
+C:\Users\RoysBABA\source\repos\Permutation_Function\Permutation_Function\obj\Debug\Permutation_Function.csproj.CoreCompileInputs.cache
+C:\Users\RoysBABA\source\repos\Permutation_Function\Permutation_Function\obj\Debug\Permutation_Function.exe
+C:\Users\RoysBABA\source\repos\Permutation_Function\Permutation_Function\obj\Debug\Permutation_Function.pdb
