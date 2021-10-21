@@ -1,4 +1,4 @@
-Almış olduğu iki yazı (string) parametresini ölçüp birinin herhangi bir permutasyonunun diğerinin içinde olup olmadığının mantıksal (boolean) karşılığını döndüren programda girdiğimiz değerleri yazdığımız fonksiyon üzerinde önce karaktelerine ayırarak dizilerimize ekleme yaptık.f
+Almış olduğu iki yazı (string) parametresini ölçüp birinin herhangi bir permutasyonunun diğerinin içinde olup olmadığının mantıksal (boolean) karşılığını döndüren programda girdiğimiz değerleri yazdığımız fonksiyon üzerinde önce karaktelerine ayırarak dizilerimize ekleme yaptık.
 
 Diziye eklenenlerden sonra if koşulu kullanarak değerlerimiz uzunluğunu ölçüp işlemimizi ona göre yapmasını eğer girilen "1.değer 2.değerden büyük ise 2.değerin 1.değer içerisinde olup olmadığına bak" else kısmında da tam tersi şeklinde çalışmasını sağladık.
 
