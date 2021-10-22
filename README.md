@@ -6,4 +6,4 @@ Diziye eklenenlerden sonra if koşulu kullanarak değerleri uzunluğunu ölçüp
 
 İf koşulunun içerisinde döngü kullanarak değerlerin uzunluğu kadar harfleri denemesini indexof methodu kullanarak yaptım.Eğer yazdığımız koşul sağlanmaz ise ekrana false, sağlandığı durumda ise ekrana true döndürmesini sağladım.
 
-String IndexOf yöntemi: ile tanımlı olan string değerde aranan char karakteri, ilk eşleşen değerin index numarasını geriye döndüdür. Bu yöntem ile string bir ifade içerisinde karakter araması yapılır.
+String IndexOf yöntemi:Tanımlı olan string değerde aranan char karakteri, ilk eşleşen değerin index numarasını geriye döndüdür. Bu yöntem ile string bir ifade içerisinde karakter araması yapılır.
